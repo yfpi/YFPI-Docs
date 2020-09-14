@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>YFPI - YEARN FINANCE PASSIVE INCOME</title>
+  <!-- Favicon start -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/favicon/57.png" />
+  <link rel="apple-touch-icon" sizes="60x60" href="/favicon/60.png" />
+  <link rel="apple-touch-icon" sizes="72x72" href="/favicon/72.png" />
+  <link rel="apple-touch-icon" sizes="76x76" href="/favicon/76.png" />
+  <link rel="apple-touch-icon" sizes="114x114" href="/favicon/114.png" />
+  <link rel="apple-touch-icon" sizes="120x120" href="/favicon/120.png" />
+  <link rel="apple-touch-icon" sizes="144x144" href="/favicon/144.png" />
+  <link rel="apple-touch-icon" sizes="152x152" href="/favicon/152.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicon/180.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="/favicon/192.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon/32.png" />
+  <link rel="icon" type="image/png" sizes="96x96" href="/favicon/96.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon/16.png" />
+
+  <!-- faviconend -->
+
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog=="
+    crossorigin="anonymous" />
+
+  <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.5.55/css/materialdesignicons.min.css"
+    integrity="sha512-fwJwcnaCDZRE9ZXt3Gevw/0WLt8A4tH+5hb1v5ps08P12o4S4BoV0tqrAa71uyclLRQvg6YMKw2RoeqTqhQBhA=="
+    crossorigin="anonymous" />
+  <link rel="stylesheet" href="/css/menu-toggle.css" />
+  <link rel="stylesheet" href="/css/materialicon.css" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <link rel="stylesheet" href="/css/style-media.css" />
+  <style id="themeElement"></style>
+  <link rel="stylesheet" href="../css/colors.css" />
+</head>
+<!-- ************************body************************ -->
+
+<body id="gradhome" class="bodyclass">
+  <canvas class="background"></canvas>
+  <!-- ********************Header*********************** -->
+
+  <header id="gradvault" class="hero">
+    <div class="mainmenu" id="mainmenu">
+      <div class="menu">
+        <a class="vault vault-bd" onclick="vault()" href="#vault">Vault</a>
+        <a class="pool pool-bd" onclick="pool()" href="#pool">Earn</a>
+        <a class="zap zap-bd" onclick="apy()" href="#apy">APY</a>
+        <a class="presale-box presale-box-bd" id="presale-now-mobile" onclick="presale()" href="#presale">
+          PreSale </a><a class="presale-box presale-box-bd" id="tokenomics" onclick="tokenomics()"
+          href="#tokenomics">Tokenomics
+        </a>
+        <a class="faq-box faq-box-bd" id="faq-mobile" onclick="faq()" href="#faq">FAQ</a>
+      </div>
+      <div class="menu__toggler"><span></span></div>
+      <div id="sidemenu" class="sidemenu top vault">
+        <!-- top logo nav bar -->
+        <h1 class="logo">
+          <a class="theme-color theme-color-bd" href="../">
+            <!-- <i class="fas fa-tractor"></i> -->
+            <img class="faviconClass1" src="../favicon/favicon_logo.png" width="30" height="30" alt="Y" />
+            <span class="text-primary">FPI</span>
+          </a>
+        </h1>
+        <!-- middle header nav bar -->
+        <nav>
+          <ul>
+            <li>
+              <a class="vault vault-bd" onclick="vault()" href="#vault">Vault</a>
+            </li>
+            <li>
+              <a class="pool pool-bd" onclick="pool()" href="#pool">Earn</a>
+            </li>
+            <li><a class="zap zap-bd" onclick="apy()" href="#apy">APY</a></li>
+          </ul>
+        </nav>
+        <!-- bottom header nav bar -->
+        <ul class="bottom-header">
+          <li>
+            <a class="presale-box presale-box-bd" id="presale-now" onclick="presale()" href="#presale">
+              PreSale
+            </a>
+          </li>
+          <li>
+            <a class="tokenomics-box tokenomics-box-bd" id="tokenomics" onclick="tokenomics()" href="#tokenomics">
+              Tokenomics
+            </a>
+          </li>
+          <li>
+            <a class="faq-box faq-box-bd" id="faq" onclick="faq()" href="#faq">FAQ</a>
+          </li>
+        </ul>
+      </div>
+      <!-- Main section -->
+      <main id="main" class="main main-mobile">
+        <div id="mainsection" class="mainsection">
+          <div class="wallet-transaction" id="wallet-transaction">
+            <!-- push from js -->
+          </div>
+          <div class="social-mobile">
+            <a class="social-link-mobile-a" href="https://github.com/yfpi" target="_blank"><i
+                class="fab fa-github fa-2x"></i> Github</a>
+            <a class="social-link-mobile-a" href="https://twitter.com/YFPIncome" target="_blank"><i
+                class="fab fa-twitter fa-2x"></i> Twitter</a>
+            <a class="social-link-mobile-a" href="https://medium.com/@yfpincome" target="_blank"><i
+                class="fab fa-medium fa-2x"></i> Medium</a>
+            <a class="social-link-mobile-a" href="https://t.me/YF_PI" target="_blank"><i
+                class="fab fa-telegram fa-2x"></i>Telegram</a>
+          </div>
+          <p class="social-link-mobile-p">
+            Copyright &copy; 2020 - YFPI <br />
+            Yearn Finance Passive Income
+          </p>
+        </div>
+      </main>
+      <div id="wallet-connect" class="wallet-connect">
+        <button id="wallet-connect-btn" class="wallet-connect-btn theme-color red-bd">
+          <i class="fa fa-circle text-danger"></i>
+          Connect Wallet (Web3)
+        </button>
+        <div class="social">
+          <a class="social-link" href="https://github.com/yfpi" target="_blank"><i class="fab fa-github fa-2x"></i>
+            Github</a>
+          <a class="social-link" href="https://twitter.com/YFPIncome" target="_blank"><i
+              class="fab fa-twitter fa-2x"></i> Twitter</a>
+          <a class="social-link" href="https://medium.com/@yfpincome" target="_blank"><i
+              class="fab fa-medium fa-2x"></i> Medium</a>
+          <a class="social-link" href="https://t.me/YF_PI" target="_blank"><i class="fab fa-telegram fa-2x"></i>
+            Telegram</a>
+        </div>
+      </div>
+    </div>
+  </header>
+  <!-- ******* end header ******** -->
+
+  <script src="/js/particles.min.js"></script>
+  <script src="/js/menu-toggle.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="/js/main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,64 @@
+.vault {
+  color: var(--bg-box1) !important;
+}
+
+.vault-bd {
+  border: var(--bg-box1) 2px solid !important;
+  border-radius: 5px !important;
+  background-color: white;
+}
+
+.pool {
+  color: var(--bg-box2) !important;
+}
+
+.pool-bd {
+  border: var(--bg-box2) 2px solid !important;
+  border-radius: 5px !important;
+  background-color: white;
+}
+
+.zap {
+  color: var(--bg-box3) !important;
+}
+
+.zap-bd {
+  border: var(--bg-box3) 2px solid !important;
+  border-radius: 5px !important;
+  background-color: white;
+}
+
+.red-bd {
+  border: red 2px solid !important;
+  border-radius: 5px !important;
+}
+
+.presale-box {
+  color: var(--presale-box) !important;
+}
+
+.presale-box-bd {
+  border: var(--presale-box) 2px solid !important;
+  border-radius: 5px !important;
+  background-color: white;
+}
+
+.tokenomics-box {
+  color: var(--tokenomics-box) !important;
+}
+
+.tokenomics-box-bd {
+  border: var(--tokenomics-box) 2px solid !important;
+  border-radius: 5px !important;
+  background-color: white;
+}
+
+.faq-box {
+  color: var(--faq-box) !important;
+}
+
+.faq-box-bd {
+  border: var(--faq-box) 2px solid !important;
+  border-radius: 5px !important;
+  background-color: white;
+}
