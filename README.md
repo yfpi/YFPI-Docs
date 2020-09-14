@@ -1,5 +1,5 @@
 # YFPI-Docs
- Documentation with initial web interface of DFPI Finance
+ Documentation with initial web interface of YFPI Finance
 
 
 # Introduction to YFPI
