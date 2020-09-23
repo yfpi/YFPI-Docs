@@ -5,6 +5,17 @@
 # Introduction to YFPI
  YEARN FINANCE PASSIVE INCOME (YFPI) is a Governance token. Users who stake YFPI tokens can vote for potential product upgrades, releases, and parameter fixes.
 
+## Contract Addresses:
+
+**YFPI Token**: [0x05D27CdD23E22ca63e7f9c7C6D1B79ede9C4fCF5](https://etherscan.io/token/0x05d27cdd23e22ca63e7f9c7c6d1b79ede9c4fcf5)
+
+**Locked YFPI**: [0xB65dfbc9A07718F118bF41EE4b3c16F8a4ca1a55](https://etherscan.io/address/0xB65dfbc9A07718F118bF41EE4b3c16F8a4ca1a55)
+
+**YFPIPresaleRoundOne**: [0xAd01f3d55014e399D3238BcB097346556EAaD765](https://etherscan.io/address/0xAd01f3d55014e399D3238BcB097346556EAaD765)
+
+**YFPIPresaleRoundTwo**: [0xFaa1E3390F452D98a8fc4dD92AaAD55A5e831DD9](https://etherscan.io/address/0xFaa1E3390F452D98a8fc4dD92AaAD55A5e831DD9)
+
+
 ## Core Products
 
 ### YFPI Vaults
