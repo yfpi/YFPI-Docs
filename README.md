@@ -15,6 +15,24 @@
 
 **YFPIPresaleRoundTwo**: [0xFaa1E3390F452D98a8fc4dD92AaAD55A5e831DD9](https://etherscan.io/address/0xFaa1E3390F452D98a8fc4dD92AaAD55A5e831DD9)
 
+**UniSwap Pair Info** : [0x4e19b5cd6589c0b7204f395119cd619b273704aa](https://uniswap.info/pair/0x4e19b5cd6589c0b7204f395119cd619b273704aa)
+
+**UniSwap Trading Pair**: [https://app.uniswap.org/#/swap?inputCurrency=0x05d27cdd23e22ca63e7f9c7c6d1b79ede9c4fcf5&outputCurrency=ETH](https://app.uniswap.org/#/swap?inputCurrency=0x05d27cdd23e22ca63e7f9c7c6d1b79ede9c4fcf5&outputCurrency=ETH)
+
+**Liquidity Locked Proof**: [https://www.unicrypt.network/pol-dapp/0x4E19B5cd6589c0b7204F395119CD619b273704AA](https://www.unicrypt.network/pol-dapp/0x4E19B5cd6589c0b7204F395119CD619b273704AA)
+
+
+## Special Programs
+
+### YFPI — Holding Rewards Program**
+
+We have launched Holding Rewards Program from 22 Sept. Under this program, we will take a snapshot each day of the YFPI holders addresses and they will be rewarded with YFPI tokens. This Program will remain live until staking goes live and rewards will be distributed after 30th September.
+
+The estimated annual yield is 50% for holding YFPI.
+Snapshot will be taken each day between 2 PM and 3 PM UTC. You need to hold YFPI during this time to get rewards.
+
+****Note**- Do not get confused Holding Rewards Program with YFPI- Earn and YFPI- Vault. They are separate products and will go live within one month of listing.
+
 
 ## Core Products
 
